@@ -1,6 +1,6 @@
 // $BURP site config — fill at launch
 window.BURP_CFG = {
-  NAME:   "BURP",
+  NAME:   "BurpCoin",
   TICKER: "BURP",
   CA:     "",
   CHAIN:  "solana",
